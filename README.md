@@ -1,6 +1,10 @@
 # shop
 
 A new Flutter project.
+![Screenshot](img/1.jpg)
+![Screenshot](img/2.jpg)
+![Screenshot](img/3.jpg)
+![Screenshot](img/4.jpg)
 
 ## Getting Started
 
